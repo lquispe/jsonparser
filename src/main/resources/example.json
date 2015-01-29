@@ -1,0 +1,385 @@
+{
+	"uuid": "65763572-79fc-4243-ecbb-5fd6204177fe",
+	"token": "e3Ur44Y7hfH4b2Ts161nE9oH6J50QyKI",
+	"idUsuario": "2",
+	"idCotizacion": "COT_00002_XX",
+	"urii_pref": "http://app.serviciospampa.com/yMy7K/",
+	"postcodes_id": "NN",
+	"version": 1,
+	"campos": [{
+		"id": 1,
+		"CantidadLotes": 2,
+		"gPoly": null,
+		"coordenadas": [{
+			"k": -39.04638588792799,
+			"C": -64.3033218383789
+		},
+		{
+			"k": -39.05705055812148,
+			"C": -64.3033218383789
+		},
+		{
+			"k": -39.05705055812148,
+			"C": -64.28409576416016
+		},
+		{
+			"k": -39.04585261214504,
+			"C": -64.28272247314453
+		}],
+		"ha": "209.2976",
+		"CentroLat": -39.051451585133265,
+		"CentroLong": -64.29302215576172,
+		"dec": "Ruta Nacional 22, Río Negro, Argentina",
+		"codPos": {
+			"postcodes_id": "14421",
+			"Latitude": "-38.95",
+			"Longitude": "-64.25",
+			"PostalCode": "R8138",
+			"Region2Name": "Pichi Mahuida",
+			"Region1Name": "Río Negro",
+			"Locality": "Coronel Eugenio del Busto",
+			"SubLocality": ""
+		},
+		"imagenSat": "c_1_65763572-79fc-4243-ecbb-5fd6204177fe.png",
+		"imagenSatConLotes": "cl_1_65763572-79fc-4243-ecbb-5fd6204177fe.png",
+		"valido": true
+	},
+	{
+		"id": 2,
+		"CantidadLotes": 2,
+		"gPoly": null,
+		"coordenadas": [{
+			"k": -39.04638588792799,
+			"C": -64.27448272705078
+		},
+		{
+			"k": -39.05758374935666,
+			"C": -64.27345275878906
+		},
+		{
+			"k": -39.05705055812148,
+			"C": -64.25697326660156
+		},
+		{
+			"k": -39.04585261214504,
+			"C": -64.25800323486328
+		}],
+		"ha": "178.1142",
+		"CentroLat": -39.05171818075085,
+		"CentroLong": -64.26572799682617,
+		"dec": "Ruta Nacional 22, Río Negro, Argentina",
+		"codPos": {
+			"postcodes_id": "14421",
+			"Latitude": "-38.95",
+			"Longitude": "-64.25",
+			"PostalCode": "R8138",
+			"Region2Name": "Pichi Mahuida",
+			"Region1Name": "Río Negro",
+			"Locality": "Coronel Eugenio del Busto",
+			"SubLocality": ""
+		},
+		"imagenSat": "c_2_65763572-79fc-4243-ecbb-5fd6204177fe.png",
+		"imagenSatConLotes": "cl_2_65763572-79fc-4243-ecbb-5fd6204177fe.png",
+		"valido": true
+	}],
+	"lotes": [{
+		"id": 1,
+		"campo": {
+			"id": 1,
+			"CantidadLotes": 2,
+			"gPoly": null,
+			"coordenadas": [{
+				"k": -39.04638588792799,
+				"C": -64.3033218383789
+			},
+			{
+				"k": -39.05705055812148,
+				"C": -64.3033218383789
+			},
+			{
+				"k": -39.05705055812148,
+				"C": -64.28409576416016
+			},
+			{
+				"k": -39.04585261214504,
+				"C": -64.28272247314453
+			}],
+			"ha": "209.2976",
+			"CentroLat": -39.051451585133265,
+			"CentroLong": -64.29302215576172,
+			"dec": "Ruta Nacional 22, Río Negro, Argentina",
+			"codPos": {
+				"postcodes_id": "14421",
+				"Latitude": "-38.95",
+				"Longitude": "-64.25",
+				"PostalCode": "R8138",
+				"Region2Name": "Pichi Mahuida",
+				"Region1Name": "Río Negro",
+				"Locality": "Coronel Eugenio del Busto",
+				"SubLocality": ""
+			},
+			"imagenSat": "c_1_65763572-79fc-4243-ecbb-5fd6204177fe.png",
+			"imagenSatConLotes": "cl_1_65763572-79fc-4243-ecbb-5fd6204177fe.png",
+			"valido": true
+		},
+		"gPoly": null,
+		"coordenadas": [{
+			"k": -39.05171842432894,
+			"C": -64.30126190185547
+		},
+		{
+			"k": -39.056250763719504,
+			"C": -64.29679870605469
+		},
+		{
+			"k": -39.05038532797263,
+			"C": -64.2974853515625
+		}],
+		"ha": "11.0989",
+		"CentroLat": -39.05331804584607,
+		"CentroLong": -64.29903030395508,
+		"codPos": {
+			"postcodes_id": "14421",
+			"Latitude": "-38.95",
+			"Longitude": "-64.25",
+			"PostalCode": "R8138",
+			"Region2Name": "Pichi Mahuida",
+			"Region1Name": "Río Negro",
+			"Locality": "Coronel Eugenio del Busto",
+			"SubLocality": ""
+		},
+		"cultivo": "CENTENO",
+		"cultivo_id": "1",
+		"imagenSat": "l_1_65763572-79fc-4243-ecbb-5fd6204177fe.png",
+		"valido": true
+	},
+	{
+		"id": 2,
+		"campo": {
+			"id": 1,
+			"CantidadLotes": 2,
+			"gPoly": null,
+			"coordenadas": [{
+				"k": -39.04638588792799,
+				"C": -64.3033218383789
+			},
+			{
+				"k": -39.05705055812148,
+				"C": -64.3033218383789
+			},
+			{
+				"k": -39.05705055812148,
+				"C": -64.28409576416016
+			},
+			{
+				"k": -39.04585261214504,
+				"C": -64.28272247314453
+			}],
+			"ha": "209.2976",
+			"CentroLat": -39.051451585133265,
+			"CentroLong": -64.29302215576172,
+			"dec": "Ruta Nacional 22, Río Negro, Argentina",
+			"codPos": {
+				"postcodes_id": "14421",
+				"Latitude": "-38.95",
+				"Longitude": "-64.25",
+				"PostalCode": "R8138",
+				"Region2Name": "Pichi Mahuida",
+				"Region1Name": "Río Negro",
+				"Locality": "Coronel Eugenio del Busto",
+				"SubLocality": ""
+			},
+			"imagenSat": "c_1_65763572-79fc-4243-ecbb-5fd6204177fe.png",
+			"imagenSatConLotes": "cl_1_65763572-79fc-4243-ecbb-5fd6204177fe.png",
+			"valido": true
+		},
+		"gPoly": null,
+		"coordenadas": [{
+			"k": -39.05198504058065,
+			"C": -64.2919921875
+		},
+		{
+			"k": -39.056517362860056,
+			"C": -64.29130554199219
+		},
+		{
+			"k": -39.05198504058065,
+			"C": -64.28581237792969
+		}],
+		"ha": "13.4769",
+		"CentroLat": -39.05425120172035,
+		"CentroLong": -64.28890228271484,
+		"codPos": {
+			"postcodes_id": "14421",
+			"Latitude": "-38.95",
+			"Longitude": "-64.25",
+			"PostalCode": "R8138",
+			"Region2Name": "Pichi Mahuida",
+			"Region1Name": "Río Negro",
+			"Locality": "Coronel Eugenio del Busto",
+			"SubLocality": ""
+		},
+		"cultivo": "SOJA DE 1° EN QUINTALES",
+		"cultivo_id": "3",
+		"imagenSat": "l_2_65763572-79fc-4243-ecbb-5fd6204177fe.png",
+		"valido": true
+	},
+	{
+		"id": 3,
+		"campo": {
+			"id": 2,
+			"CantidadLotes": 2,
+			"gPoly": null,
+			"coordenadas": [{
+				"k": -39.04638588792799,
+				"C": -64.27448272705078
+			},
+			{
+				"k": -39.05758374935666,
+				"C": -64.27345275878906
+			},
+			{
+				"k": -39.05705055812148,
+				"C": -64.25697326660156
+			},
+			{
+				"k": -39.04585261214504,
+				"C": -64.25800323486328
+			}],
+			"ha": "178.1142",
+			"CentroLat": -39.05171818075085,
+			"CentroLong": -64.26572799682617,
+			"dec": "Ruta Nacional 22, Río Negro, Argentina",
+			"codPos": {
+				"postcodes_id": "14421",
+				"Latitude": "-38.95",
+				"Longitude": "-64.25",
+				"PostalCode": "R8138",
+				"Region2Name": "Pichi Mahuida",
+				"Region1Name": "Río Negro",
+				"Locality": "Coronel Eugenio del Busto",
+				"SubLocality": ""
+			},
+			"imagenSat": "c_2_65763572-79fc-4243-ecbb-5fd6204177fe.png",
+			"imagenSatConLotes": "cl_2_65763572-79fc-4243-ecbb-5fd6204177fe.png",
+			"valido": true
+		},
+		"gPoly": null,
+		"coordenadas": [{
+			"k": -39.05385132615985,
+			"C": -64.2703628540039
+		},
+		{
+			"k": -39.05731715424235,
+			"C": -64.26555633544922
+		},
+		{
+			"k": -39.05465114773864,
+			"C": -64.26177978515625
+		}],
+		"ha": "12.4630",
+		"CentroLat": -39.0555842402011,
+		"CentroLong": -64.26607131958008,
+		"codPos": {
+			"postcodes_id": "14421",
+			"Latitude": "-38.95",
+			"Longitude": "-64.25",
+			"PostalCode": "R8138",
+			"Region2Name": "Pichi Mahuida",
+			"Region1Name": "Río Negro",
+			"Locality": "Coronel Eugenio del Busto",
+			"SubLocality": ""
+		},
+		"cultivo": "ARROZ",
+		"cultivo_id": "36",
+		"imagenSat": "l_3_65763572-79fc-4243-ecbb-5fd6204177fe.png",
+		"valido": true
+	},
+	{
+		"id": 4,
+		"campo": {
+			"id": 2,
+			"CantidadLotes": 2,
+			"gPoly": null,
+			"coordenadas": [{
+				"k": -39.04638588792799,
+				"C": -64.27448272705078
+			},
+			{
+				"k": -39.05758374935666,
+				"C": -64.27345275878906
+			},
+			{
+				"k": -39.05705055812148,
+				"C": -64.25697326660156
+			},
+			{
+				"k": -39.04585261214504,
+				"C": -64.25800323486328
+			}],
+			"ha": "178.1142",
+			"CentroLat": -39.05171818075085,
+			"CentroLong": -64.26572799682617,
+			"dec": "Ruta Nacional 22, Río Negro, Argentina",
+			"codPos": {
+				"postcodes_id": "14421",
+				"Latitude": "-38.95",
+				"Longitude": "-64.25",
+				"PostalCode": "R8138",
+				"Region2Name": "Pichi Mahuida",
+				"Region1Name": "Río Negro",
+				"Locality": "Coronel Eugenio del Busto",
+				"SubLocality": ""
+			},
+			"imagenSat": "c_2_65763572-79fc-4243-ecbb-5fd6204177fe.png",
+			"imagenSatConLotes": "cl_2_65763572-79fc-4243-ecbb-5fd6204177fe.png",
+			"valido": true
+		},
+		"gPoly": null,
+		"coordenadas": [{
+			"k": -39.04771905977191,
+			"C": -64.26143646240234
+		},
+		{
+			"k": -39.05545096025854,
+			"C": -64.26040649414062
+		},
+		{
+			"k": -39.05278488329662,
+			"C": -64.25765991210938
+		},
+		{
+			"k": -39.04825232146404,
+			"C": -64.259033203125
+		},
+		{
+			"k": -39.05065194925692,
+			"C": -64.26349639892578
+		},
+		{
+			"k": -39.05518435709178,
+			"C": -64.25834655761719
+		},
+		{
+			"k": -39.05225165582583,
+			"C": -64.25971984863281
+		}],
+		"ha": "23.6959",
+		"CentroLat": -39.05158501001522,
+		"CentroLong": -64.26057815551758,
+		"codPos": {
+			"postcodes_id": "14421",
+			"Latitude": "-38.95",
+			"Longitude": "-64.25",
+			"PostalCode": "R8138",
+			"Region2Name": "Pichi Mahuida",
+			"Region1Name": "Río Negro",
+			"Locality": "Coronel Eugenio del Busto",
+			"SubLocality": ""
+		},
+		"cultivo": "AVENA",
+		"cultivo_id": "4",
+		"imagenSat": "l_4_65763572-79fc-4243-ecbb-5fd6204177fe.png",
+		"valido": true
+	}]
+}
